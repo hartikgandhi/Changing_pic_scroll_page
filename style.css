@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0%;
+}
+
+.backimage{
+    width: 100;
+    height: 100vh;
+    /*background-color: peachpuff;*/
+    background-image: url('nepal.jpeg');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
+
+.backimage1{
+    width: 100;
+    height: 100vh;
+    /*background-color: peachpuff;*/
+    background-image: url('np.jpg');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
